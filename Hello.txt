@@ -1,8 +1,8 @@
-Hello world
-Hello everybody
+Hello world;
+Hello everybody;
 
-Hi hi hi!!!
+Hi hi hi!!!;
 
-Hey!
+Hey!;
 
-Hi, bitch!!!
+Hi, bitch!!!;
